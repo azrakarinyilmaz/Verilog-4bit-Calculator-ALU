@@ -76,4 +76,4 @@ Modules tested include:
 - ALU
 - datapath
 
-## Project Structure
+
